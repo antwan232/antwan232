@@ -9,7 +9,7 @@
 
 - 🥅 2025 Goals: Learn **MERN STACK**
 
--  ⚡ Fun fact: I love to acting Comedy so much 😂
+-  ⚡ Fun fact: I love acting Comedy so much 😂
 
 
 <p align="left">
