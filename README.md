@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Next JS**
 
-- 💬 Ask me about **HTML & CSS & JS && REACT**
+- 💬 Ask me about **HTML & CSS & JS & REACT**
 
 - 📫 How to reach me **TonyNabil200@gmail.com**
 
