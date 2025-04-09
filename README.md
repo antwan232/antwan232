@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Tony Gebrial</h1>
 <h3 align="center">A passionate Frontend developer from Egypt</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Next JS**
 
-- 💬 Ask me about **HTML & CSS & JS**
+- 💬 Ask me about **HTML & CSS & JS && REACT**
 
 - 📫 How to reach me **TonyNabil200@gmail.com**
 
-- 🥅 2025 Goals: Learn **MERN STACK**
+- 🥅 2026 Goals: Learn **MERN STACK**
 
 -  ⚡ Fun fact: I love acting Comedy so much 😂
 
